@@ -1,0 +1,16 @@
+version="0"
+tags={
+	"Alternative History"
+	"Gameplay"
+	"National Ideas"
+	"Religion"
+	"Technologies"
+	"Events"
+	"Fixes"
+	"Historical"
+	"New Nations"
+	"Missions And Decisions"
+}
+name="Nurcestir Missions & Flavor Pack - Anbennar Submod"
+supported_version="v1.37.5.0"
+remote_file_id="3452693950"
