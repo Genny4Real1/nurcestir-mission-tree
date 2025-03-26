@@ -1,2 +1,2 @@
-# nurcestir-mission-tree
-The Dawn of Witch Kings - Nurcestir Mission tree for Anbennar
+# Nurcestir Missions & Flavor Pack - Anbennar Submod
+A submod for Anbennar adding new mission trees, decisions, events, and alternative paths for Nurcestir.
